@@ -1,6 +1,6 @@
 ## Olá eu sou o Thales, programador full-stack.
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/FalcoNzada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBarbosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
