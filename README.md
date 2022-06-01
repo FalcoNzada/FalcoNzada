@@ -1,4 +1,4 @@
-## Olá eu sou p Thales, programador front-end
+## Olá eu sou o Thales, programador full-stack.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,4 +20,4 @@
  <a href="https://discord.gg/9SJVn4xtTg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/FalcoNzada/FalcoNzada/blob/output/github-contribution-grid-snake.svg)
  
-</div>https://github.com/FalcoNzada/FalcoNzada/blob
+</div>
